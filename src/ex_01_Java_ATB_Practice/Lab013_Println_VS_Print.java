@@ -4,7 +4,7 @@ public class Lab013_Println_VS_Print {
     public static void main(String[] args) {
         System.out.println("Hii"); // ln Basically means "New Line"
         System.out.println("Bye");
-        System.out.print("Hii");
+        System.out.print("Hii"); // No New Line will be added
         System.out.print("Bye");
     }
 }
